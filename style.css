@@ -1,3 +1,6 @@
+body {
+    background-color: white;
+}
 .topbar {
     display: flex;
 }
@@ -12,21 +15,21 @@
     background-color: white;
 }
 .logo{
-    max-width: 50%;
+    max-width: 40%;
 }
 #logo{
     text-align: center;
 }
 .name{
     margin:0;
-    font-size: 55px;
+    font-size: 70px;
 }
 .about{
     padding-right: 50%;
 }
 .about-us{
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
 }
 .about-text, p{
     font-size: 16px;
@@ -36,10 +39,23 @@
 }
 .contacts-text{
     text-align: center;
+    font-size: 50px;
 }
 .priority{
-    padding-right: 50%;
+    text-align: center;
 }
 .priority-text{
-    
+    font-size: 50px;
+}
+#safety {
+    width: 15%;
+}
+.text{
+    font-size: 25px;
+}
+#punctuality {
+    width: 15%;
+}
+#reliability {
+    width: 10%;
 }
